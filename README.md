@@ -62,3 +62,17 @@ CarpinPro está dividido en dos partes principales:
 ---
 
 ## 📸 Capturas
+### Vista 1
+![Vista 1](assets/1.png)
+
+### Vista 2
+![Vista 2](assets/2.png)
+
+### Vista 3
+![Vista 3](assets/3.png)
+
+### Vista 4
+![Vista 4](assets/4.png)
+
+### Vista 5
+![Vista 5](assets/5.png)
